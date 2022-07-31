@@ -1,15 +1,16 @@
-body,html{
-  height: 100%;
-  margin: 0;
+/*estilização do "corpo" da página*/
+body,
+html {
+    height: 100%;
+    margin: 0;
+    color: white;
 }
-.bg{
-  background-image: url("img/sheesh.jfif");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-}
-.lg{
-  <header <link rel="shortcut icon" type="imagex/png" href="img/icon.ico";
-  </header>
+
+/*Background da página*/
+.bg {
+    background-image: url("img/abs\,jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
