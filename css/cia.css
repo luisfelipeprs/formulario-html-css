@@ -1,0 +1,16 @@
+/*estilização do "corpo" da página*/
+body,
+html {
+    height: 100%;
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+/*Background da página*/
+.bg {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
